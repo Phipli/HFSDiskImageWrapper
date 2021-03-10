@@ -1,5 +1,6 @@
 Need PHP installed
 Make sure there is a folder called "uploads" in the same directory with the correct permissions.
+The command line tool "genisoimage" must be installed as it is used to wrap the files
 
 To start a development test server on linux (or similar), navigate to the folder in the commandline and
 type :
